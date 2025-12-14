@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- AI-Themed Dynamic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Data%20%26%20AI%20Portfolio&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligence%20from%20Data&descAlignY=55&descSize=20" width="100%"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0099ff&height=250&section=header&text=Data%20%26%20AI%20Portfolio&fontSize=70&animation=fadeIn&desc=Building%20Intelligence%20from%20Data" width="100%"/>
+</div>
 
   <br/>
 
