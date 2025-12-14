@@ -1,94 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayoubi Yassine | AI & Data Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Fira+Code&display=swap" rel="stylesheet">
+    <!-- Font Awesome for clean social icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
 
-<!-- Introduction with Typing Effect -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Analyzing+Data...;Building+Neural+Networks...;Visualizing+Insights...&center=true&width=500&height=50&color=336699" alt="Typing SVG" />
-  </a>
-</h1>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="logo">AY.</div>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
 
-<br/>
+    <!-- Hero Section -->
+    <header id="home" class="hero">
+        <div class="hero-content">
+            <span class="greeting">Hi 👋, I'm</span>
+            <h1>AYOUBI Yassine</h1>
+            <h2 class="typing-text">I am a <span id="typewriter"></span></h2>
+            <p class="bio">Passionate Python Developer | Data Analytics & AI Student</p>
+            
+            <div class="social-buttons">
+                <a href="https://linkedin.com/in/yassine-ayoubi" target="_blank" class="btn social"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                <a href="https://github.com/IIDOUY" target="_blank" class="btn social"><i class="fab fa-github"></i> GitHub</a>
+                <a href="https://yassineportfolio.ct.ws/resume" target="_blank" class="btn primary">View Resume</a>
+            </div>
+        </div>
+    </header>
 
-<div align="center">
+    <!-- About Section -->
+    <section id="about" class="container">
+        <h2 class="section-title">About Me</h2>
+        <div class="about-grid">
+            <div class="about-card">
+                <i class="fas fa-graduation-cap icon"></i>
+                <h3>Education</h3>
+                <p>Data Analytics & AI Student currently learning LLMs, ML & Deep Learning.</p>
+            </div>
+            <div class="about-card">
+                <i class="fas fa-handshake icon"></i>
+                <h3>Collaboration</h3>
+                <p>Looking to collaborate on Open Source AI Projects & building Smart AI Assistants.</p>
+            </div>
+            <div class="about-card">
+                <i class="fas fa-bolt icon"></i>
+                <h3>Fun Fact</h3>
+                <p>I am Creative, Serious, and disciplined in my coding journey.</p>
+            </div>
+        </div>
+    </section>
 
-  <!-- Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=AYOUBI%20Yassine&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%26%20AI%20Student&descAlignY=60&descSize=25" width="100%"/>
+    <!-- Skills Section -->
+    <section id="skills" class="container">
+        <h2 class="section-title">Tech Stack</h2>
+        
+        <div class="skill-category">
+            <h3>Languages</h3>
+            <div class="icons">
+                <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,php,dart,kotlin" alt="Languages">
+            </div>
+        </div>
 
-  <!-- Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Python+Developer;Building+AI+Solutions;Data+Analytics+Enthusiast&center=true&width=500&height=50&color=0e75b6&vCenter=true&size=25" alt="Typing SVG" />
-  </a>
+        <div class="skill-category">
+            <h3>AI & Data Science</h3>
+            <div class="icons">
+                <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,seaborn,anaconda,jupyter,huggingface,ollama" alt="AI Tools">
+            </div>
+        </div>
 
-  <!-- Profile Views & Trophy -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=IIDOUY&label=Profile%20Views&color=0e75b6&style=flat-square" alt="IIDOUY" />
-    <br/>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IIDOUY&theme=flat&no-frame=true&margin-w=15" alt="IIDOUY" /></a>
-  </p>
+        <div class="skill-category">
+            <h3>Tools & DevOps</h3>
+            <div class="icons">
+                <img src="https://skillicons.dev/icons?i=git,docker,mysql,firebase,postman,figma,linux" alt="Tools">
+            </div>
+        </div>
+    </section>
 
-  <!-- Social Links (Centered & Clean) -->
-  <p>
-    <a href="https://linkedin.com/in/yassine-ayoubi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://kaggle.com/yassineayoubi" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-    <a href="https://yassineportfolio.ct.ws" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" /></a>
-    <a href="mailto:yassine.ayoubi.ca@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+    <!-- GitHub Stats Section -->
+    <section id="stats" class="container">
+        <h2 class="section-title">GitHub Stats</h2>
+        <div class="stats-grid">
+            <img src="https://github-readme-stats.vercel.app/api?username=IIDOUY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b" alt="Stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIDOUY&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e293b" alt="Languages">
+        </div>
+        <div class="streak-container">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=IIDOUY&theme=tokyonight&hide_border=true&background=1e293b" alt="Streak">
+        </div>
+    </section>
 
-<hr/>
+    <!-- Footer -->
+    <footer id="contact">
+        <h2>Let's Connect</h2>
+        <p>Email: <a href="mailto:yassine.ayoubi.ca@gmail.com">yassine.ayoubi.ca@gmail.com</a></p>
+        <div class="social-links-footer">
+            <a href="https://twitter.com/@a_you_bi"><i class="fab fa-twitter"></i></a>
+            <a href="https://instagram.com/a_you_bi"><i class="fab fa-instagram"></i></a>
+            <a href="https://kaggle.com/yassineayoubi"><i class="fab fa-kaggle"></i></a>
+        </div>
+        <p class="copyright">© 2025 Ayoubi Yassine. Built with HTML, CSS, JS.</p>
+    </footer>
 
-<!-- Main Content Table -->
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h3>👨‍💻 About Me</h3>
-      <br/>
-      <ul>
-        <li>🔭 I'm currently pursuing a degree in <b>Data Analytics & AI</b>.</li>
-        <li>🌱 I'm deeply learning <b>LLMs, Machine Learning & Deep Learning</b>.</li>
-        <li>👯 I'm looking to collaborate on <b>Open Source AI Projects</b>.</li>
-        <li>🤝 I'm seeking guidance on <b>Building Custom AI Assistants</b>.</li>
-        <li>⚡ <b>Fun fact:</b> I am creative yet disciplined.</li>
-      </ul>
-      <br/>
-      <b>🔗 Quick Links:</b>
-      <br/>
-      • <a href="https://yassineportfolio.ct.ws">My Portfolio</a><br/>
-      • <a href="https://yassineportfolio.ct.ws/blog">My Tech Blog</a><br/>
-      • <a href="https://yassineportfolio.ct.ws/resume">My Resume</a>
-    </td>
-    <td valign="top" width="45%">
-      <h3>🛠 Tech Stack</h3>
-      <div align="center">
-        <!-- Languages -->
-        <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css&theme=light" />
-        <br/><br/>
-        <!-- AI & Data -->
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,anaconda,jupyter&theme=light" />
-        <br/><br/>
-        <!-- Tools & DB -->
-        <img src="https://skillicons.dev/icons?i=git,docker,mysql,firebase,postman,figma&theme=light" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 📈 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IIDOUY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIDOUY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IIDOUY&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🤝 Connect with me</h3>
-  <a href="https://twitter.com/@a_you_bi" target="blank"><img src="https://img.shields.io/twitter/follow/@a_you_bi?logo=twitter&style=social" alt="@a_you_bi" /></a>
-</div>
+    <script src="script.js"></script>
+</body>
+</html>
