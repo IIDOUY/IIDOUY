@@ -1,4 +1,4 @@
-# Hi there, I'm Ayoubi Yassine 👋
+# Hi there, I'm Ayoubi Yassine 
 
 <div align="center">
   
@@ -6,7 +6,7 @@
   
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Python Developer** and **Data Analytics & AI Student** with a deep interest in building intelligent systems and solving real-world problems through code. Currently diving deep into **Large Language Models (LLMs)**, **Machine Learning**, and **Deep Learning**.
 
@@ -17,7 +17,7 @@ I'm a passionate **Python Developer** and **Data Analytics & AI Student** with a
 - 📫 How to reach me: **yassine.ayoubi.ca@gmail.com**
 - ⚡ Fun fact: I believe in the power of clean code and continuous learning
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,7 +47,7 @@ I'm a passionate **Python Developer** and **Data Analytics & AI Student** with a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
@@ -59,7 +59,7 @@ I'm a passionate **Python Developer** and **Data Analytics & AI Student** with a
   
 </div>
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
   
